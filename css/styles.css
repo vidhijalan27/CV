@@ -10,11 +10,12 @@ hr
   border-color: #187498;
   border-width: 3px;
 }
-h1
+h1 {color: #187498;}
+h3 {color: #187498;}
+p
 {
-  color: #187498;
+  color: #006E7F;
 }
-h3
-{
-  color: #187498;
-}
+td {color: #006E7F;}
+ul {color: #006E7F;}
+ol {color: #006E7F;}
